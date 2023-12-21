@@ -1,22 +1,4 @@
-# TensorFlow Lite Gesture Classification
 
-### Overview
-
-This is a camera app that continuously classifies the gesture in the frames seen
-by your device's front camera. These instructions walk you through building and
-running the demo on an Android device.
-
-The model files are downloaded via Gradle scripts when you build and run the
-app. You don't need to do any steps to download TFLite models into the project
-explicitly.
-
-We trained the model with the following hand gesture images.
-![Training images](gesture_training_image.png "Training images")
-
-This application should be run on a physical Android device.
-
-![App example showing UI controls. Result is down.](
-gesture_classification_screen_shot.jpeg?raw=true "Screenshot with controls")
 
 ## Build the demo using Android Studio
 
